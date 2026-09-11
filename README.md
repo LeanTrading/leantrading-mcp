@@ -55,6 +55,12 @@ Before submitting it to a marketplace:
 
 MCP requests can expose the user's requested LeanTrading system context,
 intelligence, risk-preview, advisory, and charting data to the connected
-client. Publish the final retention period, subprocessors, data-processing
-contact, and vulnerability-reporting contact only after they have been
-approved by LeanTrading's operator.
+client. Hosted MCP calls are audited using server-side metadata such as user,
+client, event, tool, status, and structured metadata; raw tool arguments are
+not stored. This metadata is retained only as long as necessary to provide the
+service, protect it, and comply with legal obligations, then deleted or
+anonymized when no longer needed. Account deletion remains subject to short
+backup cycles and statutory retention duties.
+
+MCP hosting and database/authentication subprocessors include Vercel and
+Supabase. Data-protection requests can be sent to `info@leantrading.de`.

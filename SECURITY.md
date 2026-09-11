@@ -18,8 +18,13 @@ capabilities are not implicit.
 The connected client may send tool arguments to LeanTrading and receive
 user-authorized strategy, risk, advisory, or charting data in return. The
 server-side audit trail is intended to contain tool-call status metadata rather
-than raw tool arguments. The approved retention and deletion policy must be
-published before the final marketplace submission.
+than raw tool arguments. Audit metadata is retained only as long as necessary
+to provide and protect the service and comply with legal obligations, then
+deleted or anonymized when no longer needed. Account deletion remains subject
+to short backup cycles and statutory retention duties.
+
+MCP hosting and database/authentication subprocessors include Vercel and
+Supabase. Data-protection requests can be sent to `info@leantrading.de`.
 
 Never place any of the following in this repository:
 
