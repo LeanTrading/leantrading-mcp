@@ -1,0 +1,19 @@
+{
+  "name": "leantrading-mcp",
+  "version": "1.2.0",
+  "description": "Connect eligible LeanTrading Pro, Elite, Blueprint, and Admin accounts to the hosted OAuth MCP server.",
+  "author": {
+    "name": "LeanTrading"
+  },
+  "homepage": "https://www.leantrading.io",
+  "repository": "https://github.com/LeanTrading/leantrading-mcp",
+  "license": "MIT",
+  "keywords": [
+    "trading",
+    "risk-management",
+    "pine-script",
+    "tradingview",
+    "mcp"
+  ],
+  "category": "developer-tools"
+}

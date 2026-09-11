@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.leantrading/leantrading-mcp",
+  "title": "LeanTrading MCP",
+  "description": "OAuth-connected LeanTrading strategy, risk, intelligence, and chart tools for eligible Pro, Elite, Blueprint, and Admin users.",
+  "repository": {
+    "url": "https://github.com/LeanTrading/leantrading-mcp",
+    "source": "github"
+  },
+  "version": "1.2.0",
+  "websiteUrl": "https://www.leantrading.io",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.leantrading.io/api/mcp"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "leantrading": {
+      "url": "https://www.leantrading.io/api/mcp"
+    }
+  }
+}
