@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.leantrading/leantrading-mcp",
   "title": "LeanTrading MCP",
-  "description": "OAuth LeanTrading tools for eligible Pro, Elite, Blueprint, and Admin users.",
+  "description": "OAuth LeanTrading tools for Pro, Elite, Blueprint, Admin, and Product Tester (first 14 days).",
   "repository": {
     "url": "https://github.com/LeanTrading/leantrading-mcp",
     "source": "github"

@@ -9,9 +9,10 @@ assistant surface through OAuth 2.1/PKCE.
 https://www.leantrading.io/api/mcp
 ```
 
-The server requires a LeanTrading OAuth connection and an eligible paid
-Pro/Elite/Blueprint/Admin account. Product Tester, Explorer, and free accounts
-are not granted hosted MCP access.
+The server requires a LeanTrading OAuth connection and an eligible account:
+paid Pro/Elite/Blueprint/Admin, or Product Tester during the first 14 days of
+the tester grant. After that window, Product Tester must upgrade to Pro.
+Explorer and free accounts are not granted hosted MCP access.
 
 ## Installation
 
