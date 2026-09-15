@@ -1,7 +1,7 @@
 {
   "name": "leantrading-mcp",
-  "version": "1.2.0",
-  "description": "Connect eligible LeanTrading Pro, Elite, Blueprint, and Admin accounts to the hosted OAuth MCP server.",
+  "version": "1.2.1",
+  "description": "Connect LeanTrading Pro, Elite, Blueprint, and Admin accounts, plus Product Testers during their first 14 days, to the hosted OAuth MCP server.",
   "author": {
     "name": "LeanTrading"
   },
